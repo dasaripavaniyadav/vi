@@ -1,0 +1,10 @@
+body{
+    background-image: url(gaming.jpg);
+    background-size: cover;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    color: whitesmoke;
+padding: 20px;
+}
+
